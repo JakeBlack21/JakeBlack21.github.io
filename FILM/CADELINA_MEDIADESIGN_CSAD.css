@@ -1,0 +1,26 @@
+h1 {
+	text-align: center;
+	font-size: 4em;
+	color: cyan;
+}
+
+h2 {
+	text-align: center;
+	font-size: 4em;
+	color: cyan;
+}
+
+
+iframe {
+	margin: 50px;
+	resize: both;
+}
+
+p {
+	text-align: center;
+	color: #f4a460;
+	font-size: 24px;
+	font-family: bold, monospace;
+}
+
+
