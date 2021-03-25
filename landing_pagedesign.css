@@ -54,12 +54,12 @@ a:focus {
 
 p {
 
-	color: lightblue;
+	color: #CD853F;
 	font-family: cursive, Verdana, Arial, Tahoma, Serif;
 	font-weight: bold;
 	margin: 2.5em;
-  text-align: center;
-  font-size: 18px;
+  	text-align: center;
+  	font-size: 18px;
 
 
 }
