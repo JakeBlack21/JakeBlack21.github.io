@@ -20,7 +20,7 @@ h1 {
 }
 a {
 
-	color: brown;
+    color: tomato;
     background: #F3F3F3;
     border: 1px red solid;
     padding: 5px 10px;
@@ -94,6 +94,7 @@ b {
       height: 100px;
       background: cyan;
       border-radius: 100px / 50px;
+      color: double grey;
     }
 	
 mark {
