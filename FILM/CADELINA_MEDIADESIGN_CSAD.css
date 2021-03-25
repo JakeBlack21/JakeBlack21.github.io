@@ -16,6 +16,14 @@ iframe {
 	resize: both;
 }
 
+a {
+	color: lightblue;
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive, monospace;
+}
+
+
 p {
 	text-align: center;
 	color: #f4a460;
