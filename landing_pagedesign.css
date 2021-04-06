@@ -1,3 +1,4 @@
+
 .overlay {
 
  	background-size: cover;
@@ -20,15 +21,16 @@ h1 {
 }
 a {
 
-    color: tomato;
-    background: #F3F3F3;
-    border: 1px red solid;
-    padding: 5px 10px;
-    border-radius: 2px;
-    font-weight: bold;
-    font-size: 12pt;
-    outline: none;
-    margin: 2em;
+	color: brown;
+  background: #F3F3F3;
+  border: 1px red solid;
+  padding: 5px 10px;
+  border-radius: 2px;
+  font-weight: bold;
+  font-size: 12pt;
+  outline: none;
+  margin: 2em;
+
     
 
 }
@@ -50,16 +52,18 @@ a:focus {
 
 	background-color: black;
 	color: white;
+
 }
 
 p {
 
-	color: #CD853F;
+	color: #FA8258;
 	font-family: cursive, Verdana, Arial, Tahoma, Serif;
 	font-weight: bold;
-	margin: 2.5em;
-  	text-align: center;
-  	font-size: 18px;
+  margin: 2.5em;
+  text-align: center;
+  font-size: 18px;
+  background-color: lightblue;
 
 
 }
@@ -94,7 +98,6 @@ b {
       height: 100px;
       background: cyan;
       border-radius: 100px / 50px;
-      color: double grey;
     }
 	
 mark {
@@ -102,12 +105,6 @@ mark {
  background-color: #A8D8FF;
 
 }
-
-
-
-
-
-
 
 
 
