@@ -21,15 +21,15 @@ h1 {
 }
 a {
 
-	color: brown;
-  background: #F3F3F3;
-  border: 1px red solid;
-  padding: 5px 10px;
-  border-radius: 2px;
-  font-weight: bold;
-  font-size: 12pt;
-  outline: none;
-  margin: 2em;
+	color: black;
+  	background: #F3F3F3;
+  	border: 1px red solid;
+  	padding: 5px 10px;
+  	border-radius: 2px;
+  	font-weight: bold;
+  	font-size: 12pt;
+  	outline: none;
+  	margin: 2em;
 
     
 
@@ -57,7 +57,7 @@ a:focus {
 
 p {
 
-	color: #FA8258;
+	color: black;
 	font-family: cursive, Verdana, Arial, Tahoma, Serif;
 	font-weight: bold;
   margin: 2.5em;
